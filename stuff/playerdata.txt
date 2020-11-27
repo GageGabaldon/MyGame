@@ -1,0 +1,2 @@
+current health 20
+total health 20

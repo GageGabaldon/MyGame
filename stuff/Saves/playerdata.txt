@@ -1,0 +1,5 @@
+current health:20
+total health:20
+level:1
+gold:100
+experience:0
